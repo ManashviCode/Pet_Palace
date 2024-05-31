@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using pet_backend.Context;
 using pet_backend.Dtos;
 using pet_backend.Entities;
@@ -36,6 +37,28 @@ namespace pet_backend.Controllers
         }
 
         //Read
+     
+        [HttpGet]
+        public async Task<ActionResult<List<ProductEntity>>> GetAllProducts()
+        {
+            var products = await _context.Products.OrderByDescending(q => q.UpdatedAt).ToListAsync();
+
+            return Ok(products);
+        }
+
+        [HttpGet]
+        [Route("{id}")]
+        public async Task<ActionResult<ProductEntity>> GetProductByID([FromRoute] long id)
+        {
+            var product = await _context.Products.FirstOrDefaultAsync(q => q.Id == id);
+
+            if (product is null)
+            {
+                return NotFound("Product Not Found");
+            }
+
+            return Ok(product);
+        }
 
 
         //Update
