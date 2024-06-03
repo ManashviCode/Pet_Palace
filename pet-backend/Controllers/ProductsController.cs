@@ -65,5 +65,21 @@ namespace pet_backend.Controllers
 
 
         //Delete
+        [HttpDelete]
+        [Route("{id}")]
+        public async Task<IActionResult> DeleteProduct([FromRoute] long id)
+        {
+            var product = await _context.Products.FirstOrDefaultAsync(q => q.Id == id);
+
+            if (product is null)
+            {
+                return NotFound("Product Not Found");
+            }
+
+            _context.Products.Remove(product);
+            await _context.SaveChangesAsync();
+
+            return Ok("Product Deleted Successfully");
+        }
     }
 }
