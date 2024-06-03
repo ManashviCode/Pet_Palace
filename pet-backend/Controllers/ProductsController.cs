@@ -37,7 +37,7 @@ namespace pet_backend.Controllers
         }
 
         //Read
-     
+
         [HttpGet]
         public async Task<ActionResult<List<ProductEntity>>> GetAllProducts()
         {
@@ -62,7 +62,24 @@ namespace pet_backend.Controllers
 
 
         //Update
+        [HttpGet]
+        [Route("{id}")]
+        public async Task<IActionResult> UpdateProduct([FromRoute] long id,[FromBody] CreateUpdateProductDto dto)
+        {
+            var product = await _context.Products.FirstOrDefaultAsync(q => q.Id == id);
 
+            if (product is null)
+            {
+                return NotFound("Product Not Found");
+            }
+
+                product.Brand = dto.Brand;
+                product.Title = dto.Title;
+
+                await _context.SaveChangesAsync();
+
+            return Ok("Product Updated Successfully");
+        }
 
         //Delete
         [HttpDelete]
