@@ -11,7 +11,5 @@ namespace pet_backend.Context
         }
 
         public DbSet<ProductEntity> Products {  get; set; }
-
-        
     }
 }
