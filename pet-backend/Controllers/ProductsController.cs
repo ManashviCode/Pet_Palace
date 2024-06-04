@@ -62,7 +62,7 @@ namespace pet_backend.Controllers
 
 
         //Update
-        [HttpGet]
+        [HttpPut]
         [Route("{id}")]
         public async Task<IActionResult> UpdateProduct([FromRoute] long id,[FromBody] CreateUpdateProductDto dto)
         {
@@ -75,6 +75,7 @@ namespace pet_backend.Controllers
 
                 product.Brand = dto.Brand;
                 product.Title = dto.Title;
+            product.UpdatedAt = DateTime.Now;
 
                 await _context.SaveChangesAsync();
 
