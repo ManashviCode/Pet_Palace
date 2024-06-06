@@ -12,8 +12,8 @@ using pet_backend.Context;
 namespace pet_backend.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240531095355_initial")]
-    partial class initial
+    [Migration("20240606033826_Initial3")]
+    partial class Initial3
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
