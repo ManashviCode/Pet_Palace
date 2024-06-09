@@ -1,0 +1,35 @@
+@import "../../mixins";
+
+.navbar {
+  width: 100%;
+  height: 60px;
+  background-color: rgb(20, 4, 48);
+  color: #fff;
+  padding: 0 3rem;
+  @include d-flex(row, space-between, center);
+}
+
+.brand {
+  color: #fff;
+}
+
+.hamburger {
+  display: none;
+}
+
+.menu {
+  flex: 1;
+  margin-left: 2rem;
+
+  ul {
+    @include d-flex(row, flex-start, center);
+    gap: 1rem;
+
+    li{
+        a{
+            color: #fff;
+        }
+    }
+
+  }
+}
