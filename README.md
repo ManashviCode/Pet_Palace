@@ -24,3 +24,6 @@ Prettier - Code formatter
 ### To navigate between different components or pages 
   `npm i react-router-dom`
 
+###  for parsing, validating, manipulating, and displaying dates and times
+  `npm i moment`
+ 
