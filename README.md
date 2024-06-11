@@ -24,3 +24,5 @@ Prettier - Code formatter
 ### To navigate between different components or pages 
   `npm i react-router-dom`
 
+### To add notifications/alert
+  `npm i sweetalert2`
