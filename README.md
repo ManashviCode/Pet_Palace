@@ -24,5 +24,11 @@ Prettier - Code formatter
 ### To navigate between different components or pages 
   `npm i react-router-dom`
 
+
+### To install npm axios
+  `npm i axios`
+  
+
 ### To add notifications/alert
   `npm i sweetalert2`
+
