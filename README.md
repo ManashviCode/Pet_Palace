@@ -27,3 +27,7 @@ Prettier - Code formatter
 ###  for parsing, validating, manipulating, and displaying dates and times
   `npm i moment`
  
+
+### To add notifications/alert
+  `npm i sweetalert2`
+
