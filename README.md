@@ -18,6 +18,15 @@ Also we've completed following sections within this simple CRUD application.
 
 - **On Frontend Project - Sending state while redirecting user, Nested Routing, useState, useEffect, Sweet Alert on Create,Edit and Delete, Confimation on Delete, Fully Responsive Navbar, TypeScript Interface, Typescript Partial, Axios, SASS, Mixins, Moment**
 
+## Solution Architecture
+![Presentation1](https://github.com/ManashviCode/Pet_Store/assets/123438365/db4eab01-1500-4648-9176-130f621baa86)
+
+## Add Product Page
+![2](https://github.com/ManashviCode/Pet_Store/assets/123438365/4b8f0399-46a4-4a91-90ce-14bfa4a6e20f)
+
+## Products List Page
+![6](https://github.com/ManashviCode/Pet_Store/assets/123438365/620ad34e-8ab7-4692-b616-ef2a9b5c7a2e)
+
 ## Collaborators
 
 #### 👨‍💻  [SWARNAKUMARA L.Y.S.B.](https://github.com/cydexcode) 
@@ -25,6 +34,19 @@ Also we've completed following sections within this simple CRUD application.
 #### 👨‍💻  [PERERA S.D.M](https://github.com/ManashviCode)   
 
 ------------------------------------------------------
+## Pet_Store Backend
+
+### Nuget Packages
+Microsoft.AspNetCore.OpenApi
+Microsoft.EntityFrameworkCore.Design
+Microsoft.EntityFrameworkCore.SqlServer
+Microsoft.EntityFrameworkCore.Tools
+
+### To add migrations
+`add-migration initial`
+
+`update-database`
+
 ## Pet_Store Frontend
 here you can get commands for setting up the front end development environment for a Pet Store project.
 
