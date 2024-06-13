@@ -1,5 +1,30 @@
-# Pet_Store
+# Pet Palace
+![1](https://github.com/ManashviCode/Pet_Store/assets/123438365/6448dfa1-e1ec-4274-9328-12c214599986)
 
+## Description
+This is a Fullstack Pet Store project built using;
+
+- **React 18**
+
+- **ASP.NET Core WebAPI (.NET 7)**
+
+- **TypeScript** 
+
+AND Entity Framework Core. The project serves as a platform to collect and manage pet details such as title, brand....etc. 
+ 
+Also we've completed following sections within this simple CRUD application.
+
+- **On Backend Project - Entities,  Dtos, Context, ORM, Http Methods, Swagger, Postman, Postman Collection**
+
+- **On Frontend Project - Sending state while redirecting user, Nested Routing, useState, useEffect, Sweet Alert on Create,Edit and Delete, Confimation on Delete, Fully Responsive Navbar, TypeScript Interface, Typescript Partial, Axios, SASS, Mixins, Moment**
+
+## Collaborators
+
+#### 👨‍💻  [SWARNAKUMARA L.Y.S.B.](https://github.com/cydexcode) 
+
+#### 👨‍💻  [PERERA S.D.M](https://github.com/ManashviCode)   
+
+------------------------------------------------------
 ## Pet_Store Frontend
 here you can get commands for setting up the front end development environment for a Pet Store project.
 
