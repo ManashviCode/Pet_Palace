@@ -22,12 +22,18 @@ Also we've completed following sections within this simple CRUD application.
 ## Solution Architecture
 ![Presentation1](https://github.com/ManashviCode/Pet_Store/assets/123438365/db4eab01-1500-4648-9176-130f621baa86)
 
-## Add Product Page
-![2](https://github.com/ManashviCode/Pet_Store/assets/123438365/4b8f0399-46a4-4a91-90ce-14bfa4a6e20f)
+## Add Products 
+![Screenshot 2024-06-14 084851](https://github.com/ManashviCode/Pet_Store/assets/112784979/0367cc39-89d6-47f4-a29f-36318f761944)
 
 ## Products List Page
-
 ![Screenshot 2024-06-14 084003](https://github.com/ManashviCode/Pet_Store/assets/112784979/dbe08b5d-e45e-4477-a444-f743312cc8ca)
+
+## Edit Product items
+![Screenshot 2024-06-14 084950](https://github.com/ManashviCode/Pet_Store/assets/112784979/c3aeddff-76cf-4cfc-88ba-a82e67b0cfc7)
+
+## Delete Product items
+![Screenshot 2024-06-14 085004](https://github.com/ManashviCode/Pet_Store/assets/112784979/ebe5024e-caaa-478b-84e9-d63046c5636e)
+
 
 ## Collaborators
 
