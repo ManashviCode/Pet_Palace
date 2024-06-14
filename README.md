@@ -1,5 +1,6 @@
 # Pet Palace
-![1](https://github.com/ManashviCode/Pet_Store/assets/123438365/6448dfa1-e1ec-4274-9328-12c214599986)
+![Screenshot 2024-06-14 083850](https://github.com/ManashviCode/Pet_Store/assets/112784979/728e5e06-1a45-4828-bf33-2e7d0a35ebd9)
+
 
 ## Description
 This is a Fullstack Pet Store project built using;
@@ -25,7 +26,8 @@ Also we've completed following sections within this simple CRUD application.
 ![2](https://github.com/ManashviCode/Pet_Store/assets/123438365/4b8f0399-46a4-4a91-90ce-14bfa4a6e20f)
 
 ## Products List Page
-![6](https://github.com/ManashviCode/Pet_Store/assets/123438365/620ad34e-8ab7-4692-b616-ef2a9b5c7a2e)
+
+![Screenshot 2024-06-14 084003](https://github.com/ManashviCode/Pet_Store/assets/112784979/dbe08b5d-e45e-4477-a444-f743312cc8ca)
 
 ## Collaborators
 
