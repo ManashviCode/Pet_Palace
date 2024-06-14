@@ -2,7 +2,7 @@ import "./home.scss";
 import React from "react";
 import { Button } from "@mui/material";
 import { useNavigate } from "react-router-dom";
-import petImage from "../../assets/images/pet.png";
+import petImage from "../../assets/images/petD.webp";
 
 const Home = () => {
   const redirect = useNavigate();

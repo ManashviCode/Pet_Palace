@@ -12,7 +12,7 @@ using pet_backend.Context;
 namespace pet_backend.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20240610153139_initial")]
+    [Migration("20240614022025_initial")]
     partial class initial
     {
         /// <inheritdoc />
