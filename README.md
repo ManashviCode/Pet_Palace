@@ -11,7 +11,7 @@ This is a Fullstack Pet Store project built using;
 
 - **TypeScript** 
 
-AND Entity Framework Core. The project serves as a platform to collect and manage pet details such as title, brand....etc. 
+The project serves as a platform to collect and manage pet Store items details such as title, brand....etc. 
  
 Also we've completed following sections within this simple CRUD application.
 
