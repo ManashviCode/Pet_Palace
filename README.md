@@ -1,5 +1,9 @@
 # Pet Palace
-![Screenshot 2024-06-14 083850](https://github.com/ManashviCode/Pet_Store/assets/112784979/728e5e06-1a45-4828-bf33-2e7d0a35ebd9)
+
+
+
+https://github.com/user-attachments/assets/6b938091-a4b5-42a3-b625-f97c70cc1481
+
 
 
 ## Description
@@ -20,26 +24,10 @@ Also we've completed following sections within this simple CRUD application.
 - **On Frontend Project - Sending state while redirecting user, Nested Routing, useState, useEffect, Sweet Alert on Create,Edit and Delete, Confimation on Delete, Fully Responsive Navbar, TypeScript Interface, Typescript Partial, Axios, SASS, Mixins, Moment**
 
 ## Solution Architecture
-![Presentation1](https://github.com/ManashviCode/Pet_Store/assets/123438365/db4eab01-1500-4648-9176-130f621baa86)
 
-## Add Products 
-![Screenshot 2024-06-14 084851](https://github.com/ManashviCode/Pet_Store/assets/112784979/0367cc39-89d6-47f4-a29f-36318f761944)
-
-## Products List Page
-![Screenshot 2024-06-14 084003](https://github.com/ManashviCode/Pet_Store/assets/112784979/dbe08b5d-e45e-4477-a444-f743312cc8ca)
-
-## Edit Product items
-![Screenshot 2024-06-14 084950](https://github.com/ManashviCode/Pet_Store/assets/112784979/c3aeddff-76cf-4cfc-88ba-a82e67b0cfc7)
-
-## Delete Product items
-![Screenshot 2024-06-14 085004](https://github.com/ManashviCode/Pet_Store/assets/112784979/ebe5024e-caaa-478b-84e9-d63046c5636e)
+![Presentation1](https://github.com/user-attachments/assets/46c7a3de-7382-42c3-8d58-57a83e678fb7)
 
 
-## Collaborators
-
-#### 👨‍💻  [SWARNAKUMARA L.Y.S.B.](https://github.com/cydexcode) 
-
-#### 👨‍💻  [PERERA S.D.M](https://github.com/ManashviCode)   
 
 ------------------------------------------------------
 ## Pet_Store Backend
