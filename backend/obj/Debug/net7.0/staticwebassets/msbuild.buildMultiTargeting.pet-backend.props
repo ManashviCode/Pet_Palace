@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\pet-backend.props" />
+</Project>
