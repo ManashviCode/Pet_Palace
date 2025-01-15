@@ -1,0 +1,231 @@
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\appsettings.Development.json
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\appsettings.json
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\pet-backend.exe
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\pet-backend.deps.json
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\pet-backend.runtimeconfig.json
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\pet-backend.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\pet-backend.pdb
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Azure.Core.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Azure.Identity.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Humanizer.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\System.CodeDom.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\System.Memory.Data.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.csproj.AssemblyReference.cache
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.AssemblyInfoInputs.cache
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.AssemblyInfo.cs
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.csproj.CoreCompileInputs.cache
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.MvcApplicationPartsAssemblyInfo.cs
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.MvcApplicationPartsAssemblyInfo.cache
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.sourcelink.json
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets.build.json
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets.development.json
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets\msbuild.pet-backend.Microsoft.AspNetCore.StaticWebAssets.props
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets\msbuild.build.pet-backend.props
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.pet-backend.props
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.pet-backend.props
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets.pack.json
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\scopedcss\bundle\pet-backend.styles.css
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\pet-back.23D87F15.Up2Date
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\refint\pet-backend.dll
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.pdb
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.genruntimeconfig.cache
+E:\My Projects\Pet Store\Pet_Store\pet-backend\obj\Debug\net7.0\ref\pet-backend.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\appsettings.Development.json
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\appsettings.json
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\pet-backend.exe
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\pet-backend.deps.json
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\pet-backend.runtimeconfig.json
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\pet-backend.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\pet-backend.pdb
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Azure.Core.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Azure.Identity.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Humanizer.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.CodeDom.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.Memory.Data.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.csproj.AssemblyReference.cache
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.AssemblyInfoInputs.cache
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.AssemblyInfo.cs
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.csproj.CoreCompileInputs.cache
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.MvcApplicationPartsAssemblyInfo.cs
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.MvcApplicationPartsAssemblyInfo.cache
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.sourcelink.json
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets.build.json
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets.development.json
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets\msbuild.pet-backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets\msbuild.build.pet-backend.props
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.pet-backend.props
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.pet-backend.props
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets.pack.json
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\scopedcss\bundle\pet-backend.styles.css
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-back.23D87F15.Up2Date
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\refint\pet-backend.dll
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.pdb
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.genruntimeconfig.cache
+D:\sem7\EC9540-HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\ref\pet-backend.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\appsettings.Development.json
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\appsettings.json
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\pet-backend.exe
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\pet-backend.deps.json
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\pet-backend.runtimeconfig.json
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\pet-backend.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\pet-backend.pdb
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Azure.Core.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Azure.Identity.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Humanizer.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.CodeDom.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.Memory.Data.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.csproj.AssemblyReference.cache
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.AssemblyInfoInputs.cache
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.AssemblyInfo.cs
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.csproj.CoreCompileInputs.cache
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.MvcApplicationPartsAssemblyInfo.cs
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.MvcApplicationPartsAssemblyInfo.cache
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.sourcelink.json
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets.build.json
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets.development.json
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets\msbuild.pet-backend.Microsoft.AspNetCore.StaticWebAssets.props
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets\msbuild.build.pet-backend.props
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.pet-backend.props
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.pet-backend.props
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\staticwebassets.pack.json
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\scopedcss\bundle\pet-backend.styles.css
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-back.23D87F15.Up2Date
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\refint\pet-backend.dll
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.pdb
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\pet-backend.genruntimeconfig.cache
+D:\sem7\EC9540 - HCI\project\Pet_Store\pet-backend\obj\Debug\net7.0\ref\pet-backend.dll

@@ -1,0 +1,14 @@
+@import "../../mixins";
+.home {
+   @include main-style();
+
+   h1 {
+      color: #1f78fd;
+
+   }
+   img {
+      width: 350px;
+      max-width: 100%;
+      height: auto;
+   }
+}

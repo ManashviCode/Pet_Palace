@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Vh87QgBVNVxwqWk6h9dOKk3RZiZj+CR6Zk4q8xN24Jk=",
+  "Source": "pet-backend",
+  "BasePath": "_content/pet-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
