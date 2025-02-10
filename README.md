@@ -1,12 +1,5 @@
 # Pet Palace
 
-
-
-# Figma Wireframe
-
-
-https://www.figma.com/design/yBe3fVEMr0y3Z889NXyQ1h/2020E186_Pet-Palace?node-id=0-1&p=f&t=N601nwiEHyvp8HgR-0
-
 ## Description
 This is a Fullstack Pet Store project built using;
 
