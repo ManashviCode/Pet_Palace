@@ -4,7 +4,7 @@ https://github.com/user-attachments/assets/6b938091-a4b5-42a3-b625-f97c70cc1481
 
 # Figma Wireframe
 
-[Pet Palace-Figma Wireframes.pdf](https://github.com/user-attachments/files/18438656/Pet.Palace-Figma.Wireframes.pdf)
+
 
 https://www.figma.com/design/yBe3fVEMr0y3Z889NXyQ1h/2020E186_Pet-Palace?node-id=0-1&p=f&t=N601nwiEHyvp8HgR-0
 
